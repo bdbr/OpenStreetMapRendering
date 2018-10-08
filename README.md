@@ -8,3 +8,9 @@
 
 make
 ./carte (fichier.osm)
+
+                                                                Bibliothéques
+                                                    
+-SDL2
+-SDL2_gfx
+-libxml
